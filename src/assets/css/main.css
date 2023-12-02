@@ -1,0 +1,7 @@
+html {
+    overflow-y: auto;
+}
+
+.bg-img {
+    background-image: '@/assets/images/po.jpeg'
+}

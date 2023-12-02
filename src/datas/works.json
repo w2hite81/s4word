@@ -1,0 +1,34 @@
+[
+    {
+        "word": "apple",
+        "trans": "사과"
+    },
+    {
+        "word": "banana",
+        "trans": "바나나"
+    },
+    {
+        "word": "be",
+        "trans": "~이다. ~있다"
+    },
+    {
+        "word": "begin",
+        "trans": "시작하다"
+    },
+    {
+        "word": "bite",
+        "trans": "물다"
+    },
+    {
+        "word": "blow",
+        "trans": "(바람이) 불다"
+    },
+    {
+        "word": "break",
+        "trans": "깨뜨리다"
+    },
+    {
+        "word": "bring",
+        "trans": "가져오다"
+    }
+]
